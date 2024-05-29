@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Telgote</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Salesforce Clone App**
-
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m a **Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ijaytelgote](https://github.com/ijaytelgote)
 
