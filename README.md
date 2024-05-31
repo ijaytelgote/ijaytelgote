@@ -3,7 +3,7 @@
 
 - 🌱 I’m a **Data Scientist**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ijaytelgote](https://github.com/ijaytelgote)
+- 👨‍💻 Find me on [LinkedIn](https://linkedin.com/ijaytelgote)
 
 - 💬 Ask me about **Data Analytics, Data Science, Statistics**
 
