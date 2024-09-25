@@ -3,7 +3,7 @@
 
 - 🌱 I’m a **Data Scientist**
 
-- 👨‍💻 Find me on [LinkedIn](https://linkedin.com/ijaytelgote)
+- 👨‍💻 Find me on [LinkedIn](https://www.linkedin.com/in/ijaytelgote/)
 
 - 💬 Ask me about **Data Analytics, Data Science, Statistics**
 
